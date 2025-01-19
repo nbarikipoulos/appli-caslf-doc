@@ -3,6 +3,14 @@ title: Notifications (iPhone)
 next: true
 ---
 
+::: warning ATTENTION
+  Pour bénéficier des notifications, la version d'iOS de votre téléphone/tablette doit être supérieure ou égal à la 17.5 *i.e.* votre modèle d'iPhone doit être au moins un Xr, à vérifier pour les iPad.
+
+  Dans le cas contraire, vous pouvez directement passer à la [partie suivante](/install/iphone/end).
+
+
+:::
+
 Pour activer les notifications, rendez-vous sur la page de 'Préférences' et 
 cliquez sur 'Notifications'.
 

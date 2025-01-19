@@ -7,15 +7,7 @@ prev: false
 
 L'installation de l'appication CASLF se fait via un site web "classique" et non la place de marché d'Apple.
 
-Pour cela, vous allez avoir besoin de **Safari**, le navigateur internet fourni d'office avec les téléphones iOS.
-
-::: warning ATTENTION
-  La version d'iOS de votre téléphone/tablette doit être supérieure ou égal à la 17.5.
-
-  Dans le cas contraire, vous pourrez tout de même accéder à l'application via Safari mais pas l'installer en tant qu'application indépendante.
-
-
-:::
+Pour cela, vous allez avoir besoin de **Safari**, le navigateur internet fourni d'office avec les téléphones/tablettes iOS.
 
 ## Lancer l'installation
 
@@ -39,7 +31,7 @@ La page de connexion à l'application s'affiche.
 
 L'installation se déroule automatiquement.
 
-L'application CASLF est alors disponible sur votre téléphone :tada:; vous pouvez le déplacer sur votre écran d'accueil comme n'importe quelle autre application.
+L'application CASLF est alors disponible sur votre appareil :tada:; vous pouvez le déplacer sur votre écran d'accueil comme n'importe quelle autre application.
 
 ![An image](/install/iphone/appli_installed.png){width=350px}
 

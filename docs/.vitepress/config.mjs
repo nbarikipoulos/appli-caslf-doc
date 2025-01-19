@@ -14,7 +14,8 @@ export default defineConfig({
         items: [
           {text: 'Généralités', link: '/install/intro'},
           {text: 'Android', link: '/install/android/install'},
-          {text: 'IPhone', link: '/install/iphone/connect'}
+          {text: 'IPhone', link: '/install/iphone/install'},
+          {text: 'Ordinateur', link: '/install/pc/pc'}
         ]
       },
       { text: 'Guide d\'utilisation', link: '/user_guide/intro' },
@@ -23,6 +24,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Installation',
+        collapsed: true,
         items: [
           { text: 'Généralités', link: '/install/intro' },
           { text: 'Android',
@@ -39,7 +41,8 @@ export default defineConfig({
               {text: 'activer les notifications', link: '/install/iphone/notification'},
               {text: 'l\'appli est prête!', link: '/install/iphone/end'}
             ]
-          }
+          },
+          { text: 'Consulter depuis un ordinateur', link: '/install/pc/pc' },
         ],
       },
       {

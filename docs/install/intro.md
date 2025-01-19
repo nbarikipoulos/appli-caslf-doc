@@ -14,3 +14,6 @@ Si ce précédent paragraphe vous paraît ésotérique, ci-dessous la procédure
 
 - [Pour Android](./android/install),
 - [Pour IPhone](./iphone/install).
+
+En dernier ressort, l'utilisation de l'application est aussi possible en utilisant un ordinateur et un navigateur internet:
+- [Depuis un ordinateur](./pc/pc).

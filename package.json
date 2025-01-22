@@ -5,9 +5,9 @@
   "author": "Nicolas Barriquand <nicolas.barriquand@outlook.fr>",
   "license": "CC-BY-4.0",
   "scripts": {
-    "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
-    "deploy": "gh-pages -d docs/.vitepress/dist",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "deploy": "gh-pages -d .vitepress/dist",
     "publish": "npm run build && npm run deploy"
   },
   "devDependencies": {

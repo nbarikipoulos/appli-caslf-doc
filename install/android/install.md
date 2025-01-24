@@ -16,6 +16,8 @@ Par encore invité et vous voulez participer 🥰? Contactez-moi :relaxed:.
 
 ::: info TL;DR
   Installer l'application nommée fr.caslf depuis le store.
+  
+  Vous pouvez passer à l'étape de [première connexion](/install/android/connect).
 :::
 
 ## Installation

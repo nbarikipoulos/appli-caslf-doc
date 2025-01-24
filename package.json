@@ -1,7 +1,7 @@
 {
   "name": "app-caslf-doc",
   "description": "documentation utilisateur pour l'appli CASLF",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Nicolas Barriquand <nicolas.barriquand@outlook.fr>",
   "license": "CC-BY-4.0",
   "scripts": {

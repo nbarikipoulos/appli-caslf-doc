@@ -15,27 +15,31 @@ Par encore invité et vous voulez participer 🥰? Contactez-moi :relaxed:.
 
 
 ::: info TL;DR
-  Installer l'application nommée fr.caslf depuis le store.
+  Installez l'application nommée fr.caslf depuis le store.
   
   Vous pouvez passer à l'étape de [première connexion](/install/android/connect).
 :::
 
 ## Installation
 
-Ouvrez l'application 'Play Store' *i.e* le magasin d'applications de google fournit avec votre téléphone:
+Ouvrez l'application 'Play Store' *i.e* le magasin d'applications de google fourni avec votre téléphone:
 
 - ouvrez l'onglet recherche,
-- dans la barre de recherche, tapez:
+- dans la zone de saisie, tapez:
   - fr.caslf
 - validez.
 
-L'application fr.caslf apparaît dans les résultats de recherche.
+::: info REMARQUE
+  Contrairement au mode de recherche habituel qui vous suggère des applications lors de la saisie, vous devez valider en cliquant sur l'icône 'loupe'/entrée de votre clavier pour que l'application fr.caslf apparaisse dans les résultats de recherche.
+:::
+
+L'application apparaît alors dans les résultats.
 
 |||
 |---|---|
 | ![An image](/install/android/store_search_aio.png){width=250px}| ![An image](/install/android/store_list_app.png){width=250px}|
 
-En sélectionnant l'entrée de l'application, sa fiche s'affiche (arfff!).
+En sélectionnant l'entrée de l'application, sa fiche s'affiche (arfff).
 
 
 ![An image](/install/android/store_fiche.png){width=250px}

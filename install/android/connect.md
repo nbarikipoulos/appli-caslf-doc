@@ -14,7 +14,7 @@ Par défaut, celui fourni lors de votre inscription à la compagnie est utilisé
 
 ### Demander un mot de passe
 
-- Ouvrez l'appication CASLF que vous venez juste d'installer :heart:. vous êtes sur la page d'identification,
+- Ouvrez l'appication CASLF que vous venez juste d'installer :heart:. Vous êtes sur la page d'identification,
 - Cliquez sur 'Mot de passe oublié':
 
   ![An image](/install/android/mdp_forgotten.png){width=250px}
@@ -78,7 +78,7 @@ Pour cela, accéder à la page de préférences (cliquer en bas à droite sur 'P
 |---|---|
 | ![An image](/install/android/go_to_pref.png){width=250px}| ![An image](/install/android/go_to_user_profile.png){width=250px}|
 
-Comme demandé, choissisez-vous un nom qui apparaîtra dans l'application.
+Comme demandé, choisissez-vous un nom qui apparaîtra dans l'application.
 ::: tip important
   Validez en cliquant sur l'icône :heavy_check_mark:
 :::

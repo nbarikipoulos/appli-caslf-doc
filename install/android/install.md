@@ -9,7 +9,7 @@ prev: false
 
 L'installation pour les appareils Android est actuellement en **accès anticipé** *i.e* ouverte **uniquement  sur invitation**.
 
-Par encore invité et vous voulez participer 🥰? Contactez-moi :relaxed:.
+Par encore invité et vous voulez participer 🥰? Contactez-nous :relaxed:.
 
 :::
 

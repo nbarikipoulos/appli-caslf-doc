@@ -37,4 +37,4 @@ L'application CASLF est alors disponible sur votre appareil :tada:; vous pouvez 
 
 ## Prochaine étape
 
-Vous pouvez maintenant passer à l'étape de [première connexion sur l'appli](/install/android/connect).
+Vous pouvez maintenant passer à l'étape de [première connexion sur l'appli](/install/iphone/connect).

@@ -4,7 +4,7 @@ next: false
 ---
 
 L'application se présente sous la forme:
-- d'une application native sous Android actuellement disponible en accès anticipé sur le 'Play Store',
+- d'une application native sous Android disponible sur le 'Play Store',
 - d'une pwa ce qui permet de s'affranchir de la place de marché iOS.
 
 Notez:

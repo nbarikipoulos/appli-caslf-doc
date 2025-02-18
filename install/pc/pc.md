@@ -6,8 +6,9 @@ next: false
 
 Le contenu de l'application est (aussi) consultable directement depuis un ordinateur.
 
-Pour cela, ouvrir un navigateur internet et se rendre à l'adresse suivante:
-  - [https://caslf-63b23.web.app](https://caslf-63b23.web.app)
+Pour cela, ouvrir un navigateur internet et se rendre soit:
+  - sur le [site de la compagnie](https://caslf.fr), menu 'Créneaux Horaires',
+  - directement à cette adresse: [https://caslf-63b23.web.app](https://caslf-63b23.web.app).
 
 
 ::: warning ATTENTION

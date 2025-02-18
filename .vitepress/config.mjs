@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'CASLF',
   description: 'Documentation de l\'application CASLF',
-  lang: 'fr-FR',
+  lang: 'fr',
   base: '/appli-caslf-doc/',
   cleanUrls: true,
   themeConfig: {
@@ -20,7 +20,6 @@ export default defineConfig({
       },
       { text: 'Guide d\'utilisation', link: '/user_guide/intro' },
     ],
-
     sidebar: [
       {
         text: 'Installation',
@@ -54,6 +53,15 @@ export default defineConfig({
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/nbarikipoulos/appli-caslf-doc' }
-    ]
+    ],
+    docFooter: {
+      prev: 'Page précédente',
+      next: 'Page suivante'
+    },
+    returnToTopLabel: 'Début de page',
+    outlineTitle: 'Sur cette page',
+    darkModeSwitchLabel: 'Apparence',
+    darkModeSwitchTitle: 'thème sombre',
+    lightModeSwitchTitle: 'thème clair'
   }
 })

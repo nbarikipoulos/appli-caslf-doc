@@ -25,7 +25,7 @@ Par défaut, celui fourni lors de votre inscription à la compagnie est utilisé
   |---|---|
   | ![An image](/install/android/mdp_ask.png){width=250px}| ![An image](/install/android/mdp_ask_ack.png){width=250px}|
 
-- Ouvrez votre client de courriel:
+- Ouvrez votre client de messagerie:
   - Vous devez avoir reçu un courriel de CASLF (noreply@caslf-63b23.firebaseapp.com),
 
     ::: warning ATTENTION

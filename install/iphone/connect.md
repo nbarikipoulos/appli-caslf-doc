@@ -26,7 +26,7 @@ Par défaut, celui fourni lors de votre inscription à la compagnie est utilisé
   |---|---|
   | ![An image](/install/iphone/mdp_ask.png){width=350px}| ![An image](/install/iphone/mdp_ask_ack.png){width=350px}|
 
-- Ouvrez votre client de courriel:
+- Ouvrez votre client de messagerie:
   - Vous devez avoir reçu un courriel de CASLF (noreply@caslf-63b23.firebaseapp.com),
 
     ::: warning ATTENTION

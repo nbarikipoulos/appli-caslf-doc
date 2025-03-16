@@ -4,9 +4,9 @@ next: true
 ---
 
 ::: warning ATTENTION
-  Pour bénéficier des notifications, la version d'iOS de votre téléphone/tablette doit être supérieure ou égal à la 16.4 *i.e.* votre modèle d'iPhone doit être au moins un 8 ou un SE de seconde génération, à vérifier pour les iPad.
+  Pour bénéficier des notifications, la version d'iOS de votre téléphone/tablette doit être supérieure ou égale à la 16.4 *i.e.* votre modèle d'iPhone doit être au moins un 8 ou un SE de seconde génération, à vérifier pour les iPad.
 
-  Dans le cas contraire, vous pouvez directement passer à la [partie suivante](/install/iphone/end).
+Dans le cas contraire, vous pouvez directement passer à la [partie suivante](/install/iphone/end).
 
 
 :::
